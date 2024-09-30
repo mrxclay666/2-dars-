@@ -1,0 +1,49 @@
+.said{
+    background-color: rgb(73, 48, 48);
+    color: aliceblue;
+    width: 636px;
+    text-align: center;
+    margin:0 auto;
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    margin-top: 50px;
+
+}
+.bod{
+    background-color: rgb(38, 80, 80);
+}
+.mina{
+    box-sizing: border-box;
+    border: 10px solid rgb(255, 6, 6);
+    background: rgb(0, 0, 0);
+    height: 600px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
+.pi{
+    background: rgb(31, 232, 183);
+    padding: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: justify;
+    
+}
+.pea{
+    background: rgb(31, 232, 183);
+    margin: 50px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: justify;
+}
